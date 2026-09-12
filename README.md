@@ -1,33 +1,64 @@
-# Hi there, I'm rainduckling 👋
+# 👋 Hi, I'm RainDuckling
 
-### 🕹️ Game Developer & 🛠️ Tool Maker
+## 💻 Developer | 🎮 Gamer | 📚 Student
 
-Passionate about building **minimalist, high-performance digital experiences.** Whether it's the visceral impact of a "dash-and-destroy" game or the efficiency of a productivity tool, I focus on clean code and kinetic satisfaction.
+你好！我是RainDuckling，一名来自NSFZ的高一开发者。
 
----
+我喜欢研究新技术、制作一些有趣的项目，也喜欢在 GitHub 上记录自己的学习与开发过程。
 
-### 🚀 Featured Projects
+## 🚀 About Me
 
-#### 🔽 [Vector Combat](https://github.com/RainDuckling/Vector-Combat)
-A minimalist, high-speed action arcade game built with **Godot 4**. 
-- Focuses on "flow state" movement and high-frequency combat.
-- Features automated CI/CD pipelines for seamless deployment.
-- [Available on itch.io](你的itch链接)
+### 🌱 目前正在学习：Python / C++ / Web Development / Game Development
 
-#### 🔗 [Problem Jumper](https://github.com/RainDuckling/Problem-Jumper)
-A lightweight tool designed for competitive programmers and students.
-- Streamlines the process of navigating between informatics programming problems.
-- Built for speed and simplicity.
+### 🔭 正在进行的项目：个人网页建设
 
----
+### 💡 感兴趣的领域：Programming · Game Development · Open Source
 
-### 🛠️ Tech Stack
+### 🎮 游戏爱好：Minecraft / Brawl Stars
 
-- **Engines:** Godot 4 (GDScript)
-- **Languages:** Python, C++, GDScript, Javascript
-- **Tools:** Git, GitHub Actions, Rcedit
-- **Philosophy:** Less is more. Performance over fluff.
+## 🛠️ Skills
 
----
+### Programming Languages
 
-> "Shatter the red. Become the gold."
++ #### ``C++``
+
++ #### ``Python``
+
++ #### ``GDscript``
+
+### Tools & Technologies
+
++ #### ``Visual Studio Code``
+
++ #### ``Notepad++``
+
++ #### ``MarkText``
+
++ #### ``Godot Engine``
+
+## 📌 Featured Projects
+### 🔧 Problem-Jumper
+
+专门为国内oier开发的题目跳转工具，目前支持 
+``Luogu / Atcoder / Codeforces``
+这三个主流在线评测网站
+
+⭐ Features: 实用 / 简洁 / 网页
+
+🛠️ Tech: ``HTML`` / ``Javascript`` / ``css``
+
+📅 Status: Completed
+
+### 🎮 Vector-Combat
+
+一个基于 ``Godot Engine`` 开发的轻量化的2D射击游戏
+
+⭐ Features: 轻量 / 趣味
+
+🛠️ Tech: ``Godot Engine``
+
+📅 Status: In Development
+
+## ⭐ Thanks for visiting my profile!
+
+> "Keep learning, keep building."
